@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning to code to get more helpfull
 - 💞️ I’m looking to collaborate on everything crypto related
 - 📫 How to reach me on discord: gmarimar543#9750
+- 📫 How to reach me on discord: @gmarimar543
 
 <!---
 gmarimarcrypto/gmarimarcrypto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
